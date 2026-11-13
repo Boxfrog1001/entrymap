@@ -1,0 +1,4 @@
+# entrymap requirements
+# Minimal, robust, compatible with Tor Network Health toolchains
+cryptography>=3.4.0
+requests>=2.25.0
